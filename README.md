@@ -8,5 +8,5 @@ JavaScript Today I Learned Repository입니다.
 
 ## CONTROLL FLOW
 
-[IF문](./controll_flow/controll_flow_if.md)
+[IF문](./controll_flow/controll_flow_if.md)<br />
 [반복문](./controll_flow/controll_flow_repeat.md)
