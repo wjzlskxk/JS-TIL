@@ -10,7 +10,16 @@ JavaScript Today I Learned Repository입니다.
 
 [IF문](./controll_flow/controll_flow_if.md)<br />
 [반복문](./controll_flow/controll_flow_repeat.md)<br />
-[연산자](./operators/operator.md)<br>
-[함수](./function/funtion.md)<br>
-[배열](./array/array.md)<br>
+
+## OPERATOR
+
+[연산자](./operators/operator.md)
+
+## FUNCTION
+
+[함수](./function/funtion.md)
+
+## ARRAY & OBJECT
+
+[배열](./array/array.md) <br>
 [객체](./object/object.md)
